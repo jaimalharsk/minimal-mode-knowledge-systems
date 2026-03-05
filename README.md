@@ -59,4 +59,21 @@ Stabilize behavior before introducing architectural complexity.
 
 Most knowledge systems fail not because users lack discipline.
 
+##Why not try this first ?
+
+Minimal Mode Daily Workflow
+
+Capture:
+Open a single note titled "Daily Notes".
+Write ideas, tasks, and observations without categorizing.
+
+Retrieval:
+Use search to find keywords when needed.
+
+Connection:
+If two notes repeatedly relate, add a simple link between them.
+
+Structure:
+Only introduce folders or tags after repeated retrieval failures.
+
 They fail because the system was overbuilt before it was understood.
