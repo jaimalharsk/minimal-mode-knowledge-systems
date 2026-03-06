@@ -59,7 +59,7 @@ Stabilize behavior before introducing architectural complexity.
 
 Most knowledge systems fail not because users lack discipline.
 
-##Why not try this first ?
+## Why not try this first ?
 
 Minimal Mode Daily Workflow
 
