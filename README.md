@@ -76,4 +76,27 @@ If two notes repeatedly relate, add a simple link between them.
 Structure:
 Only introduce folders or tags after repeated retrieval failures.
 
+## Community Feedback
+
+Initial discussion on the Obsidian forum surfaced some useful critiques of the idea.
+
+### Forum Bias
+One concern raised was that forums may overrepresent struggling users.  
+People who successfully adopt a system may not post questions, which can skew observed patterns.
+
+### PKM Literacy
+Another perspective suggested that the core issue is not tool complexity but a lack of understanding of personal knowledge management principles.
+
+From this view, beginners should first learn PKM concepts before attempting to design a system.
+
+### Open Question
+
+Is beginner friction primarily caused by:
+
+- Tool exposure
+- Missing mental models
+- Behavioral instability early in system adoption
+
+This project is exploring which of these factors matters most.
+
 They fail because the system was overbuilt before it was understood.
