@@ -100,3 +100,33 @@ Is beginner friction primarily caused by:
 This project is exploring which of these factors matters most.
 
 They fail because the system was overbuilt before it was understood.
+
+## Design Direction
+
+The goal of Minimal Mode is not to remove capability from knowledge systems, but to control when that capability appears.
+
+Instead of exposing full system flexibility immediately, the interface and workflow would encourage a staged progression.
+
+Possible implementation ideas:
+
+Stage 1 — Capture Mode
+- Single default note space
+- No folder hierarchy
+- No plugins visible
+- Emphasis on quick capture
+
+Stage 2 — Retrieval Awareness
+- Encourage linking between notes
+- Introduce search-based retrieval habits
+- Highlight connections between notes
+
+Stage 3 — Structural Emergence
+- Allow folders or tags once note volume increases
+- Introduce optional organization patterns
+
+Stage 4 — Expansion
+- Plugins and advanced workflows become discoverable
+- Users customize based on real needs rather than anticipation
+
+The core principle:
+Structure should emerge from usage, not anticipation.
